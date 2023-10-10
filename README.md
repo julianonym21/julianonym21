@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Industrial Engineer studying at TU Berlin.
+I am currently working on my master thesis. 
+Whatever I'm working on at the moment, my ultimate goal in mind  is to contribute to a more sustainable mobility and traffic in this world. 
+But even this requires some coding skills, that's why you can find me on GitHub. 
+
+
 <!--
 **julianonym21/julianonym21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
